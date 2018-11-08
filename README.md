@@ -3,7 +3,7 @@ My first repository
 <!DOCTYPE html>
 <html>
   <head>
-    I have given my soul up to coding lol
+    I have given my soul up to coding lol.
   </head>
   
   

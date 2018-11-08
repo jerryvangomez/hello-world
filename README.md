@@ -7,8 +7,8 @@ My first repository
     I have given my soul up to coding lol.
   </head>
   </div>
-  <body>
-  </body>
+  <br>
+  </br>
   
   <body>
   

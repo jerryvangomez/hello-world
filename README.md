@@ -7,9 +7,11 @@ My first repository
     I have given my soul up to coding lol.
   </head>
   </div>
-  
+  <body>
+  </body>
   
   <body>
+  
   It's ok though, I like being on my computer anyways.
   </body>
   

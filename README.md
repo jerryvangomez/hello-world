@@ -4,13 +4,13 @@ My first repository
 <html>
   <div>
   <head>
-    I have given my soul up to coding lol.
+    Happy to be here!
   </head>
   </div>
   
   <body>
   
-  It's ok though, I like being on my computer anyways.
+  In fact, excited!
   </body>
   
   </html>
